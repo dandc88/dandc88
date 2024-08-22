@@ -41,7 +41,7 @@ Aquí algunos de los repositorios que he desarrollado durante un bootcamp de "De
 
 ## 📫 Contacto
 
-Puedes contactarme a través de mi [correo electrónico](danieldavilavzla@gmail.com) 
+¿Tienes algún proyecto interesante? ¡No dudes en escribirme! 📧 [danieldavilavzla@gmail.com](mailto:danieldavilavzla@gmail.com)
 
 ---
 
