@@ -1,35 +1,50 @@
-# Hola 👋, Mi nombre es Daniel
+# Hola 👋, soy Daniel
 
 ¡Bienvenido a mi perfil de GitHub!
 
----
-
 ## 🧑‍💻 Sobre mí
+Soy **venezolano** radicado en **Chile** desde hace 6 años. Estoy estudiando **desarrollo de aplicaciones móviles**, **Python** y **ciberseguridad**. Aunque mi formación profesional es en **Administración**, estoy enfocado en convertir mi carrera hacia **Programación** con un fuerte componente de **seguridad informática**.
 
-Soy un **venezolano** radicado en **Chile** desde hace 6 años. Actualmente, estoy estudiando **desarrollo de aplicaciones móviles**, **Python** y **ciberseguridad**. Aunque mi formación profesional es en **Administración**, estoy decidido a convertirme en **Programador**.
-
-### 💼 Mi Trayectoria
-Mis primeras experiencias como programador han sido personales, desarrollando un par de aplicaciones para ayudar a mis hijas a mejorar su agilidad en operaciones aritméticas. Sin embargo, estoy preparado y disponible para enfrentar nuevos retos en el mundo del desarrollo de software.
+### 💼 Mi trayectoria
+- Desarrollo de apps personales para reforzar el cálculo mental de mis hijas.
+- Laboratorios prácticos de **redes** y **ciberseguridad**: evaluación de vulnerabilidades, pruebas de penetración y documentación técnica.
 
 ### 🎯 Objetivos
-- Seguir aprendiendo y mejorando mis habilidades en programación.
-- Contribuir a proyectos que me permitan crecer como profesional y aplicar mis conocimientos.
-- Convertirme en un programador profesional y hacer la transición completa desde la administración.
+- Seguir aprendiendo y aplicando buenas prácticas de desarrollo y seguridad.
+- Contribuir a proyectos reales que fortalezcan mi portafolio.
+- Consolidarme como programador con especialización en seguridad.
 
 ---
 
-## 🛠️ Habilidades en Programación
+## 🚀 Lo nuevo (Seguridad en Redes de Datos)
+Habilidades adquiridas y reforzadas durante el curso:
 
-- **Lenguajes**: Kotlin, Java, Python, SQL
-- **Tecnologías**: [Aquí puedes añadir frameworks, herramientas, o librerías específicas que uses]
-- **Intereses Actuales**: Desarrollo de aplicaciones móviles, Ciberseguridad, Backend
+- **M2–M3**: Fundamentos de redes, VLANs, subredes, routing en dispositivos Cisco (OSPF, RIP/EIGRP), DHCP, NAT, ACLs.
+- **M4–M6**: Endurecimiento de redes pequeñas, medianas y corporativas; segmentación, Port Security, AAA, Syslog, QoS, hardening en Linux/Windows.
+- **M7**: Testeo de seguridad en redes de datos (reconocimiento, explotación controlada, validación de mitigaciones).
+- **M8**: **Documentación de hallazgos** y reportes técnicos ejecutivos y para TI.
+.
+
 
 ---
 
-## 📂 Proyectos Destacados
+## 🛠️ Habilidades
 
-Aquí algunos de los repositorios que he desarrollado durante un bootcamp de "Desarrollo de aplicaciones móviles":
+### Programación
+- **Lenguajes:** Kotlin, Java, Python, SQL
+- **Herramientas/Tech:** SQLite, REST APIs, Flet (Python), Git/GitHub
+- **Intereses:** Apps móviles, Backend, Seguridad de software
 
+### Ciberseguridad y Redes
+- **Redes:** VLANs, trunking, inter-VLAN, routing (OSPF, RIP/EIGRP), DHCP, NAT, ACLs
+- **Seguridad:** Port Security, AAA, Syslog, QoS, hardening Linux/Windows
+- **Análisis y testeo:** MitM (ARP Spoofing) con Ettercap, captura/inspección en Wireshark, evaluación de vulnerabilidades
+- **Mitigaciones:** iptables/ufw, ARP estático, segmentación, cifrado en tránsito (HTTPS/TLS)
+- **Documentación:** Informes técnicos y ejecutivos, recomendaciones de mitigación
+
+---
+
+## 📂 Proyectos Destacados (Desarrollo)
 - [**DesEvalDistribAplicativo**](https://github.com/dandc88/DesEvalDistribAplicativo)
 - [**Consumo de API REST I**](https://github.com/dandc88/Consumo-de-API-REST-I-)
 - [**Prueba Room I**](https://github.com/dandc88/Prueba-Room-I)
@@ -37,11 +52,17 @@ Aquí algunos de los repositorios que he desarrollado durante un bootcamp de "De
 - [**Testing I**](https://github.com/dandc88/Testing-I-)
 - [**Consumo ApiRest II**](https://github.com/dandc88/Consumo-ApiRest-II-)
 
+### 🔒 Portafolio de Seguridad (en progreso)
+**Caso práctico reciente (M8):**  
+Ataque **Man-in-the-Middle (MitM) por ARP Spoofing** con **Ettercap** entre cliente Windows y servidor Ubuntu; análisis de tráfico con **Wireshark** y propuesta de **contramedidas**:
+- Firewall (iptables/ufw), ARP estático, Port Security en switch, y cifrado **HTTPS/TLS**.  
+👉 **Informe (PDF):** Aqui la direccion del informe
+
 ---
 
 ## 📫 Contacto
+¿Tienes algún proyecto interesante? Escríbeme: **danieldavilavzla@gmail.com**
 
-¿Tienes algún proyecto interesante? ¡No dudes en escribirme! 📧 [danieldavilavzla@gmail.com](mailto:danieldavilavzla@gmail.com)
 
 ---
 
