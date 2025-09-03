@@ -45,12 +45,8 @@ Habilidades adquiridas y reforzadas durante el curso:
 ---
 
 ## 📂 Proyectos Destacados (Desarrollo)
-- [**DesEvalDistribAplicativo**](https://github.com/dandc88/DesEvalDistribAplicativo)
-- [**Consumo de API REST I**](https://github.com/dandc88/Consumo-de-API-REST-I-)
-- [**Prueba Room I**](https://github.com/dandc88/Prueba-Room-I)
-- [**Testing II**](https://github.com/dandc88/Testing-II)
-- [**Testing I**](https://github.com/dandc88/Testing-I-)
-- [**Consumo ApiRest II**](https://github.com/dandc88/Consumo-ApiRest-II-)
+- [**Desafio certificación**]([https://github.com/dandc88/DesEvalDistribAplicativo](https://github.com/dandc88/DesafioCErtificacion)
+
 
 ### 🔒 Portafolio de Seguridad (en progreso)
 **Caso práctico reciente (M8):**  
