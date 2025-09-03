@@ -56,7 +56,11 @@ Habilidades adquiridas y reforzadas durante el curso:
 **Caso práctico reciente (M8):**  
 Ataque **Man-in-the-Middle (MitM) por ARP Spoofing** con **Ettercap** entre cliente Windows y servidor Ubuntu; análisis de tráfico con **Wireshark** y propuesta de **contramedidas**:
 - Firewall (iptables/ufw), ARP estático, Port Security en switch, y cifrado **HTTPS/TLS**.  
-👉 **Informe (PDF):** Aqui la direccion del informe
+👉 **Informe (PDF):** (https://github.com/dandc88/Desaf-o-3-M-dulo-8-Documentaci-n-y-Reportajes-de-Seguridad)
+
+- [🔐 Prueba Módulo 6 – Soluciones de Seguridad en Redes Corporativas](https://github.com/dandc88/Prueba-modulo-6-Soluciones-de-seguridad-en-redes-corporativas)
+
+- [🛡️ Prueba Módulo 5 – Informe Técnico de Seguridad en Redes Corporativas](https://github.com/dandc88/Prueba-modulo-5-Informe-t-cnico-de-Seguridad-en-Redes-Corporativas)
 
 ---
 
